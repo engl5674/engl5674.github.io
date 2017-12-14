@@ -1,7 +1,7 @@
 ---
 title: "Data Collection for Your Data-Story"
 collection: projects
-permalink: /projects/p1-data-gathering/
+permalink: projects/p1-data-gathering/
 points: "100"
 startdate: 2017-08-28
 enddate: 2017-09-25
