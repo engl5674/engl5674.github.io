@@ -20,13 +20,23 @@ In this class, I am challenging us to consider how we dwell in a reconfigured po
 
 I am asking us all to take a step back, pause, and consider the following important question: How can and should we, as rhetoricians, study such a digital infrastructure with very different metes and bounds than those of rhetoric’s origins in ancient Athens?
 
-I suggest that we start by reflecting on our own position within this rhetorical landscape. By better understanding our own relationship with our everyday digital, networked technologies, we can ask better questions, develop better methodologies, and produce more substantive rhetorical theories for our time. To accomplish this goal, we will examine rhetorical and STS theories that have been and have yet to be integrated with that of mediation, activity, feminist, queer, and race. Graded projects will include weekly annotations during the first half of the course, as a method to prime our class discussions. Additionally, the annotations will help each student work toward the construction of their own rhetorical methodology. In the second half of the course, students will apply these methodologies in a small-scale autoethnography about their own rhetorical experiences with a networked technology. Students will come away from the course with the following: 1) foundational knowledge about emerging methodologies in rhetorics of technology, 2) a pilot of their own methodology, and 3) preliminary insights about their own rhetorical experiences with a networked technology. PhD students will also be required to articulate implications that their projects have for rhetoric by writing about their methodology and preliminary findings.
+I suggest that we start by reflecting on our own position within this rhetorical landscape. By better understanding our own relationship with our everyday digital, networked technologies, we can ask better questions, develop better methodologies, and produce more substantive rhetorical theories for our time. To accomplish this goal, we will examine rhetorical and STS theories that have been and have yet to be integrated with that of mediation, activity, feminist, queer, and race. Graded projects will include weekly annotations during the first half of the course, as a method to prime our class discussions. Additionally, the annotations will help each student work toward the construction of their own rhetorical methodology. In the second half of the course, students will apply these methodologies in a small-scale autoethnography about their own rhetorical experiences with a networked technology. Students will come away from the course with the following: 1) foundational knowledge about emerging methodologies in rhetorics of technology, 2) a pilot of their own methodology, and 3) preliminary insights about their own rhetorical experiences with a networked technology. *PhD students will also be required to articulate implications that their projects have for rhetoric by writing about their methodology and preliminary findings*.
 
 ## Objectives
 
 <ul class="hokie-shade">
   <li>
-    Insert here</li>
+    Survey contemporary interdisciplinary research on rhetorics and technology.</li>
+  <li>
+    Be able to describe particular lines of inquiry within the diverse fields of rhetoric and technology.</li>
+  <li>
+    Formulate a research problem and methodology about a particular technological issue.</li>
+  <li>
+    Propose, conduct, and write up preliminary findings derived from your research study, which also poses implications for a particular field in rhetoric.</li>
+  <li>
+    Manage and organize qualitative data (fieldnotes / memos).</li>
+  <li>
+    Learn and apply basic grounded analysis techniques.</li>
 </ul>
 
 ## VT Principles of Community
