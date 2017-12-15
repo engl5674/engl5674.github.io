@@ -1,4 +1,4 @@
 ---
 title: ""
-permalink: /materials.html
+permalink: /engl5674s18/materials/
 ---

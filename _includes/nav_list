@@ -1,5 +1,5 @@
 {% include base_path %}
-{% include baseurl %}
+
 {% assign navigation = site.data.navigation[include.nav] %}
 
 <nav class="nav__list">
@@ -37,7 +37,7 @@
               {% assign active = "" %}
             {% endif %}
 
-            <li><a href="{{ baseurl }}/{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
+            <li><a href="/{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}
